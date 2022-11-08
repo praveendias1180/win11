@@ -41,3 +41,5 @@ Make sure you have enough unallocated space to install Windows 11.
 ![](drivers.png)
 
 # Windows 11 is Ready!
+
+![](win11-real.png)
