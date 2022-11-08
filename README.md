@@ -35,3 +35,5 @@ Mount the ISO file on Ubuntu and copy files to the BOOT and INSTALL folders
 Make sure you have enough unallocated space to install Windows 11.
 
 ![](unallocated.png)
+
+# Windows 11 is Ready!
