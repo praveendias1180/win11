@@ -36,4 +36,8 @@ Make sure you have enough unallocated space to install Windows 11.
 
 ![](unallocated.png)
 
+# Copy the Storage Driver
+
+![](drivers.png)
+
 # Windows 11 is Ready!
