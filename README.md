@@ -43,3 +43,7 @@ Make sure you have enough unallocated space to install Windows 11.
 # Windows 11 is Ready!
 
 ![](win11-real.png)
+
+# OR Use VirtualBox
+
+![](virtualbox.png)
