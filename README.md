@@ -23,3 +23,9 @@ https://www.microsoft.com/en-us/software-download/windows11
 ## Mount
 
 ![](mounted.png)
+
+# Install
+
+Make sure you have enough unallocated space to install Windows 11.
+
+![](unallocated.png)
