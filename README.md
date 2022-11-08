@@ -11,3 +11,15 @@ https://www.microsoft.com/en-us/software-download/windows11
 ## Create the Partition Table - GPT
 
 ![](partition-table.png)
+
+## Create the Partitions
+
+![](partitioned.png)
+
+## Install Partition
+
+![](install--partition.png)
+
+## Mount
+
+![](mounted.png)
