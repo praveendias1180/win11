@@ -24,6 +24,12 @@ https://www.microsoft.com/en-us/software-download/windows11
 
 ![](mounted.png)
 
+# Copy Files
+
+Mount the ISO file on Ubuntu and copy files to the BOOT and INSTALL folders
+
+![](copied.png)
+
 # Install
 
 Make sure you have enough unallocated space to install Windows 11.
